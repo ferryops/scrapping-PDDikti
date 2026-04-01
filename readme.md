@@ -4,11 +4,11 @@ Script Node.js untuk scrapping data kampus dan program studi dari API PDDIKTI (P
 
 ## Preview Scraping
 
-![Scraping Preview](scrapping-pddikti/assets/Screen%20Recording%202026-04-01%20at%2011.49.10.gif)
+![Scraping Preview](https://github.com/ferryops/scrapping-PDDikti/blob/main/assets/Screen%20Recording%202026-04-01%20at%2011.49.10.gif)
 
 ## Preview Excel
 
-![Excel Preview](scrapping-pddikti/assets/Screen%20Recording%202026-04-01%20at%2011.52.04.gif)
+![Excel Preview](https://github.com/ferryops/scrapping-PDDikti/blob/main/assets/Screen%20Recording%202026-04-01%20at%2011.52.04.gif)
 
 ## 📋 Daftar Isi
 
