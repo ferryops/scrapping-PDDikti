@@ -2,7 +2,7 @@
 
 Script Node.js untuk scrapping data kampus dan program studi dari API PDDIKTI (Platform Data Pendidikan Tinggi) Indonesia dan mengexport hasilnya ke file Excel.
 
-# Preview Scraping
+## Preview Scraping
 
 ![Scraping Preview](scrapping-pddikti/assets/Screen%20Recording%202026-04-01%20at%2011.49.10.gif)
 
